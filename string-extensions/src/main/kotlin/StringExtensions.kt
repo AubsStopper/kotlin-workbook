@@ -40,7 +40,7 @@ fun String.ftToTitleCase(): String {
 
     split = split.filter { it.isNotEmpty() }
     val stringBuilder = StringBuilder()
-    
+
     for((index, string) in split.withIndex()) {
         val upperCaseChar = string[0].uppercase()
         val rest = string.substring(1)
