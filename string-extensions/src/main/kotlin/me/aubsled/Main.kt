@@ -1,8 +1,4 @@
-package org.example
-
-import ftCountVowels
-import ftIsPalindrome
-import ftToTitleCase
+package me.aubsled
 
 fun main() {
     val name = "Kotlin"

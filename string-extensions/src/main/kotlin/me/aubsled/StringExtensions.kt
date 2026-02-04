@@ -1,3 +1,6 @@
+package me.aubsled
+
+import kotlin.text.iterator
 
 val SET_VOWEL = setOf<Char>('a', 'e', 'i', 'o', 'u')
 fun String.ftCountVowels(): Int {
