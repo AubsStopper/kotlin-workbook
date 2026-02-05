@@ -13,6 +13,7 @@
 
     <modules>
         <module>string-extensions</module>
+        <module>mini-gradebook</module>
     </modules>
 
     <!-- centralize versions -->
